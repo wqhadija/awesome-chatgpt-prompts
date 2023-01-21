@@ -655,6 +655,11 @@ Contributed by: [@rockbenben](https://github.com/rockbenben)
 
 > I want you to act as a title generator for written pieces. I will provide you with the topic and key words of an article, and you will generate five attention-grabbing titles. Please keep the title concise and under 20 words, and ensure that the meaning is maintained. Replies will utilize the language type of the topic. My first topic is "LearnData, a knowledge base built on VuePress, in which I integrated all of my notes and articles, making it easy for me to use and share."
 
+## Act as a Novelist 
+Contributed by: [@wqhadija](https://github.com/wqhadija)
+
+> Write a novel with a compelling plot, well-developed characters, and a satisfying ending. The novel should be [insert desired length] and should explore [insert theme or genre]. It should be engaging and leave a lasting impression on the reader.
+
 ## Contributors 😍
 
 Many thanks to these AI whisperers:
